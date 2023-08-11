@@ -1,4 +1,0 @@
-monorail {
-  component: "Speed>Dashboard"
-}
-team_email: "speed-services-dev@chromium.org"
