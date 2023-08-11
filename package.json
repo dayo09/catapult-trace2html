@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "dayoung.lee@samsung.com",
-  "license": "BSD-3-Clause"
+  "author": "Dayoung Lee <dayoung.lee@samsung.com>",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayo09/catapult-trace2html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dayo09/catapult-trace2html/issues"
+  },
+  "homepage": "https://github.com/dayo09/catapult-trace2html#readme"
 }
