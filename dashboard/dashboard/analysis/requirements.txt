@@ -1,8 +1,0 @@
-# Requirements for most notebooks we're using in this
-# directory.
-numpy
-scipy
-pandas
-statsmodels
-numba
-matplotlib

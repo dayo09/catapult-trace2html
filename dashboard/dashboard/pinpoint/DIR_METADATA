@@ -1,4 +1,0 @@
-monorail {
-  component: "Speed>Bisection"
-}
-team_email: "speed-services-dev@chromium.org"
